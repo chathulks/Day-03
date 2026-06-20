@@ -1,6 +1,3 @@
-body {
-    background-color: white;
-}
 h1 {
     background-color: indigo;
     font-size: 50px;
@@ -10,12 +7,16 @@ h1 {
 .p-style{
     color: white;
     background-color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    text-align: center;
+    letter-spacing: 1ch;
+    text-decoration: underline dotted;
 }
 #p-lorem{
     color: white;
     background-color: blue;
 }
 *{
-    margin: 0;
-    padding: 0;
+    background-color: white;
 }
